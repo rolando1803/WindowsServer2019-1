@@ -1,0 +1,107 @@
+![2023-11-10 16 58 56 (1)](https://github.com/rolando1803/WindowsServer2019-1/assets/55965131/b141d23c-d874-43e2-90e3-5140f1264fb3)
+![2023-11-10 16 58 56 (2)](https://github.com/rolando1803/WindowsServer2019-1/assets/55965131/77e8f704-209b-4796-a75c-f388636e8eb4)
+![2023-11-10 16 58 57 (1)](https://github.com/rolando1803/WindowsServer2019-1/assets/55965131/29182e24-360f-42fc-815d-39cd38ee52af)
+![2023-11-10 16 58 57 (2)](https://github.com/rolando1803/WindowsServer2019-1/assets/55965131/e3b66557-7275-4bf8-8f5c-d8cbe3a62fe9)
+![2023-11-10 16 58 57 (3)](https://github.com/rolando1803/WindowsServer2019-1/assets/55965131/2b8f4f4f-ab74-4a96-9e0b-ef3603b9fe50)
+![2023-11-10 16 58 57 (4)](https://github.com/rolando1803/WindowsServer2019-1/assets/55965131/e66fb632-ba46-44db-ad39-2134a13fb8cd)
+![2023-11-10 16 58 58 (1)](https://github.com/rolando1803/WindowsServer2019-1/assets/55965131/cd95668f-7b4c-49cf-9799-e6abe12e3421)
+![2023-11-10 16 58 58 (2)](https://github.com/rolando1803/WindowsServer2019-1/assets/55965131/6f758971-a382-4284-9b8f-6c4693d2e0fe)
+![2023-11-10 16 58 58 (3)](https://github.com/rolando1803/WindowsServer2019-1/assets/55965131/f8ee82d4-d3b3-4c56-a221-d164023c6c10)
+![2023-11-10 16 58 58 (4)](https://github.com/rolando1803/WindowsServer2019-1/assets/55965131/aa87c60c-9b50-468f-b2bf-bc11abf8c13b)
+![2023-11-10 16 58 58 (5)](https://github.com/rolando1803/WindowsServer2019-1/assets/55965131/34a36886-c349-475f-927b-bf9fdd1396d6)
+![2023-11-10 16 58 58 (6)](https://github.com/rolando1803/WindowsServer2019-1/assets/55965131/044cb352-95cf-4c05-af8a-3dd2fab27aa6)
+![2023-11-10 16 58 59 (1)](https://github.com/rolando1803/WindowsServer2019-1/assets/55965131/50a4e049-c257-4f53-90ac-854bbc4030d5)
+![2023-11-10 16 58 59 (2)](https://github.com/rolando1803/WindowsServer2019-1/assets/55965131/e42709fd-1e81-44df-a2f3-a3f2f503aa18)
+![2023-11-10 16 58 59 (3)](https://github.com/rolando1803/WindowsServer2019-1/assets/55965131/3d43841b-9cde-433f-8b4e-a94a1fb44d49)
+![2023-11-10 16 58 59 (4)](https://github.com/rolando1803/WindowsServer2019-1/assets/55965131/7b0ee970-a58c-406c-8b9c-ce75e19eaa80)
+![2023-11-10 16 58 59 (5)](https://github.com/rolando1803/WindowsServer2019-1/assets/55965131/3ddf61c3-9fde-4372-9598-e6e3cbe42345)
+![2023-11-10 16 58 59 (6)](https://github.com/rolando1803/WindowsServer2019-1/assets/55965131/71968778-d0f2-40a1-b3f9-9854d5a812b3)
+![2023-11-10 16 58 59 (7)](https://github.com/rolando1803/WindowsServer2019-1/assets/55965131/33af94d7-8af3-4aaf-89d8-c56fb7090435)
+![2023-11-10 16 59 00 (1)](https://github.com/rolando1803/WindowsServer2019-1/assets/55965131/785191ac-503a-40ab-9bcc-07eef949bd73)
+![2023-11-10 16 59 00 (2)](https://github.com/rolando1803/WindowsServer2019-1/assets/55965131/5a5a197c-c2e1-43b5-9773-0ad1f753f10d)
+![2023-11-10 16 59 00 (3)](https://github.com/rolando1803/WindowsServer2019-1/assets/55965131/c50faa31-59a9-440c-8f3d-cc4e9c223aed)
+![2023-11-10 16 59 00 (4)](https://github.com/rolando1803/WindowsServer2019-1/assets/55965131/6d410459-c832-43a4-bb37-41ca3c4a565f)
+![2023-11-10 16 59 00 (5)](https://github.com/rolando1803/WindowsServer2019-1/assets/55965131/237b49be-77b8-4321-ae33-a53d62647192)
+![2023-11-10 16 59 00 (6)](https://github.com/rolando1803/WindowsServer2019-1/assets/55965131/2500a2a8-90fb-49b8-88a6-90e4b64a9a2e)
+![2023-11-10 16 59 01 (1)](https://github.com/rolando1803/WindowsServer2019-1/assets/55965131/026cf8db-e73a-4ae2-b80b-d0dfaedfe9a6)
+![2023-11-10 16 59 01 (2)](https://github.com/rolando1803/WindowsServer2019-1/assets/55965131/e8f7276c-d8ff-4444-b0dc-f81bd965a098)
+![2023-11-10 16 59 01 (3)](https://github.com/rolando1803/WindowsServer2019-1/assets/55965131/0f21b8d0-f487-480f-bfe8-bba699f00633)
+![2023-11-10 16 59 01 (4)](https://github.com/rolando1803/WindowsServer2019-1/assets/55965131/77218e4e-87a4-4c49-82f6-28a3e9705fed)
+![2023-11-10 16 59 01 (5)](https://github.com/rolando1803/WindowsServer2019-1/assets/55965131/4b9e30bb-9e76-4a7c-820c-1b8c41db5830)
+![2023-11-10 16 59 01 (6)](https://github.com/rolando1803/WindowsServer2019-1/assets/55965131/f382ee78-9423-435d-8e72-e600ef4a1698)
+![2023-11-10 16 59 01 (7)](https://github.com/rolando1803/WindowsServer2019-1/assets/55965131/56eed660-fbb1-4cac-affa-5a0fefd3da30)
+![2023-11-10 16 59 02 (1)](https://github.com/rolando1803/WindowsServer2019-1/assets/55965131/f98fa1a8-e88d-4446-a030-1b10294c5112)
+![2023-11-10 16 59 02 (2)](https://github.com/rolando1803/WindowsServer2019-1/assets/55965131/66f21791-87f7-4d7e-bc1c-ee00010d593d)
+![2023-11-10 16 59 02 (3)](https://github.com/rolando1803/WindowsServer2019-1/assets/55965131/29441d62-353a-4326-b3a4-9f0420cd4657)
+![2023-11-10 16 59 02 (4)](https://github.com/rolando1803/WindowsServer2019-1/assets/55965131/369cddf5-c2a6-4367-beef-1e6c2622abfe)
+![2023-11-10 16 59 02 (5)](https://github.com/rolando1803/WindowsServer2019-1/assets/55965131/0da49369-41b3-49e6-9a24-fa6b5621b40a)
+![2023-11-10 16 59 02 (6)](https://github.com/rolando1803/WindowsServer2019-1/assets/55965131/493b3320-843d-4a4f-96d1-d6219dd50651)
+![2023-11-10 16 59 02 (7)](https://github.com/rolando1803/WindowsServer2019-1/assets/55965131/410331e4-252a-4401-bdc5-e73ba26f8849)
+![2023-11-10 16 59 03 (1)](https://github.com/rolando1803/WindowsServer2019-1/assets/55965131/c0bd22d1-84fe-4943-8211-a56b046b46fc)
+![2023-11-10 16 59 03 (2)](https://github.com/rolando1803/WindowsServer2019-1/assets/55965131/f29bb3aa-4906-434f-8d51-352b21eabbba)
+![2023-11-10 16 59 03 (3)](https://github.com/rolando1803/WindowsServer2019-1/assets/55965131/ad4668f5-e29f-48fa-b3d0-180a78d5e2b3)
+![2023-11-10 16 59 03 (4)](https://github.com/rolando1803/WindowsServer2019-1/assets/55965131/9ce4cb5d-30d7-4bea-a5e7-fbb312b98afd)
+![2023-11-10 16 59 03 (5)](https://github.com/rolando1803/WindowsServer2019-1/assets/55965131/630a2534-551b-477d-889c-27876300aa12)
+![2023-11-10 16 59 03 (6)](https://github.com/rolando1803/WindowsServer2019-1/assets/55965131/f5f6b9cc-ed86-4bb5-a398-82aa5ef17701)
+![2023-11-10 16 59 03 (7)](https://github.com/rolando1803/WindowsServer2019-1/assets/55965131/f8b0a008-4512-48e6-a4e3-f4bd69d72d11)
+![2023-11-10 16 59 03 (8)](https://github.com/rolando1803/WindowsServer2019-1/assets/55965131/1e24586c-f226-4e08-9a60-de9a31ac93a8)
+![2023-11-10 16 59 04 (1)](https://github.com/rolando1803/WindowsServer2019-1/assets/55965131/e24e151c-b34d-4895-b7f8-87fa9dc0beb9)
+![2023-11-10 16 59 04 (2)](https://github.com/rolando1803/WindowsServer2019-1/assets/55965131/9d5f7bc4-d0fe-430e-98db-da64c2322163)
+![2023-11-10 16 59 04 (3)](https://github.com/rolando1803/WindowsServer2019-1/assets/55965131/3b07e2ec-5d4e-4ddb-b76f-4c5d0643b3fe)
+![2023-11-10 16 59 04 (4)](https://github.com/rolando1803/WindowsServer2019-1/assets/55965131/8dc633f3-b14c-4160-91fd-84d8c3004d34)
+![2023-11-10 16 59 04 (5)](https://github.com/rolando1803/WindowsServer2019-1/assets/55965131/0ad6ec2a-4ad0-4391-80f4-f7cc8779050f)
+![2023-11-10 16 59 04 (6)](https://github.com/rolando1803/WindowsServer2019-1/assets/55965131/d0572879-30cc-43d1-80ef-9d984a6d7aeb)
+![2023-11-10 16 59 04 (7)](https://github.com/rolando1803/WindowsServer2019-1/assets/55965131/a69a1578-6b7a-436d-b659-5f4ccc4b85f4)
+![2023-11-10 16 59 04 (8)](https://github.com/rolando1803/WindowsServer2019-1/assets/55965131/1924faa3-ebde-4de6-b277-796327ecdb0c)
+![2023-11-10 16 59 04 (9)](https://github.com/rolando1803/WindowsServer2019-1/assets/55965131/eb757cb1-e9cd-4de8-b160-352d1f9a2765)
+![2023-11-10 16 59 05 (1)](https://github.com/rolando1803/WindowsServer2019-1/assets/55965131/d73de48e-2bc0-4a3a-b70f-d7764c09c730)
+![2023-11-10 16 59 05 (2)](https://github.com/rolando1803/WindowsServer2019-1/assets/55965131/a0c0288e-632d-450d-a55d-7ff11821d9b4)
+![2023-11-10 16 59 05 (3)](https://github.com/rolando1803/WindowsServer2019-1/assets/55965131/987f3963-0128-44e1-aaa6-a57931424365)
+![2023-11-10 16 59 05 (4)](https://github.com/rolando1803/WindowsServer2019-1/assets/55965131/d0bcb736-afb6-43b3-9599-35fa8e8dde1e)
+![2023-11-10 16 59 05 (5)](https://github.com/rolando1803/WindowsServer2019-1/assets/55965131/24b6c32b-8805-4b48-bab1-3bc453449ac6)
+![2023-11-10 16 59 05 (6)](https://github.com/rolando1803/WindowsServer2019-1/assets/55965131/dc694bf1-2ab9-45f3-9511-95202175493d)
+![2023-11-10 16 59 05 (7)](https://github.com/rolando1803/WindowsServer2019-1/assets/55965131/bafde84d-ef92-4242-8a31-77593ad5a936)
+![2023-11-10 16 59 05 (8)](https://github.com/rolando1803/WindowsServer2019-1/assets/55965131/d245942c-6874-4a72-935b-162d217886be)
+![2023-11-10 16 59 05 (9)](https://github.com/rolando1803/WindowsServer2019-1/assets/55965131/9ce04832-425a-4d1b-b76a-c8f91024e655)
+![2023-11-10 16 59 06 (1)](https://github.com/rolando1803/WindowsServer2019-1/assets/55965131/5c674f8c-7957-4743-8f57-2a4a837ea594)
+![2023-11-10 16 59 06 (2)](https://github.com/rolando1803/WindowsServer2019-1/assets/55965131/66bb9875-2293-4314-9534-5921641a28f0)
+![2023-11-10 16 59 06 (3)](https://github.com/rolando1803/WindowsServer2019-1/assets/55965131/64f290d5-0559-4757-98fa-0bf4467dc400)
+![2023-11-10 16 59 06 (4)](https://github.com/rolando1803/WindowsServer2019-1/assets/55965131/bd832a73-d76a-4afc-bb3c-1a802ade4d21)
+![2023-11-10 16 59 06 (5)](https://github.com/rolando1803/WindowsServer2019-1/assets/55965131/6850283d-e522-499d-935f-8635b06ebd08)
+![2023-11-10 16 59 06 (6)](https://github.com/rolando1803/WindowsServer2019-1/assets/55965131/54b8eb7c-d9e1-453c-b6e2-301bddebc06a)
+![2023-11-10 16 59 06 (7)](https://github.com/rolando1803/WindowsServer2019-1/assets/55965131/762eff35-7e77-4d5a-9618-0449840bfd70)
+![2023-11-10 16 59 06 (8)](https://github.com/rolando1803/WindowsServer2019-1/assets/55965131/ad8e5519-5e08-4d84-b97c-560a40b72974)
+![2023-11-10 16 59 07 (1)](https://github.com/rolando1803/WindowsServer2019-1/assets/55965131/81d1b4a4-b0c4-47b3-9190-e6f8ab9ac603)
+![2023-11-10 16 59 07 (2)](https://github.com/rolando1803/WindowsServer2019-1/assets/55965131/7f0c298d-4118-45a4-a16b-819520f5438b)
+![2023-11-10 16 59 07 (3)](https://github.com/rolando1803/WindowsServer2019-1/assets/55965131/dee97fb2-ce13-4022-9921-bd95c5a80af4)
+![2023-11-10 16 59 07 (4)](https://github.com/rolando1803/WindowsServer2019-1/assets/55965131/e6eef614-e3d8-4cc7-9ccb-c7ff2cf79c9b)
+![2023-11-10 16 59 07 (5)](https://github.com/rolando1803/WindowsServer2019-1/assets/55965131/e6c9dc29-2e24-4c50-9336-1f296f131def)
+![2023-11-10 16 59 07 (6)](https://github.com/rolando1803/WindowsServer2019-1/assets/55965131/392b56e1-7e08-47e5-bcda-a09bb4a611e5)
+![2023-11-10 16 59 07 (7)](https://github.com/rolando1803/WindowsServer2019-1/assets/55965131/1af457ce-4396-4664-a37f-7c36e3d47444)
+![2023-11-10 16 59 07 (8)](https://github.com/rolando1803/WindowsServer2019-1/assets/55965131/0186f938-511b-49a6-b1b2-19563a8e404b)
+![2023-11-10 16 59 08 (1)](https://github.com/rolando1803/WindowsServer2019-1/assets/55965131/8267bccd-a275-4785-a452-ea2fe9ac0d14)
+![2023-11-10 16 59 08 (2)](https://github.com/rolando1803/WindowsServer2019-1/assets/55965131/5fe15066-b7e5-45c3-9867-07b7e31d157b)
+![2023-11-10 16 59 08 (3)](https://github.com/rolando1803/WindowsServer2019-1/assets/55965131/5811f0af-4dc0-419c-aa75-a659b4127a61)
+![2023-11-10 16 59 08 (4)](https://github.com/rolando1803/WindowsServer2019-1/assets/55965131/7e424d0d-ea54-4466-9889-8613c74248a6)
+![2023-11-10 16 59 08 (5)](https://github.com/rolando1803/WindowsServer2019-1/assets/55965131/f3a4a362-882f-4859-985a-752dc4e171d1)
+![2023-11-10 16 59 08 (6)](https://github.com/rolando1803/WindowsServer2019-1/assets/55965131/eed46560-85bd-46b5-94cc-8d04c072c0c2)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
